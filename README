@@ -1,3 +1,5 @@
+(inspiration) source http://www.princetronics.com/how-to-read-433-mhz-codes-w-arduino-433-mhz-receiver/
+
 needs lib RCSwitch
 platformio lib install RCSwitch
 
