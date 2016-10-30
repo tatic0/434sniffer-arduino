@@ -1,0 +1,4 @@
+needs lib RCSwitch
+platformio lib install RCSwitch
+
+receiver pin 2 connected to Arduino pin1 (Tx)
